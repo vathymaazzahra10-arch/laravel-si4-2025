@@ -10,7 +10,7 @@
 
 <body>
     <h1>Ini halaman Profile</h1>
-    <p>Nama saya adalah {{ $nama; }}</p>
+    <p>Nama saya adalah {{ $nama }}</p>
 </body>
 
 </html>
